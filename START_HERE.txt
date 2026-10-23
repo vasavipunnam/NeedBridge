@@ -1,0 +1,42 @@
+NEEDBRIDGE AI FRONTEND - START HERE
+===================================
+
+1. Keep your Spring Boot backend running on:
+   http://localhost:8080
+
+2. Open Command Prompt in this frontend folder.
+
+3. Run:
+   npm install
+
+4. Run:
+   npm run dev
+
+5. Open:
+   http://localhost:5173
+
+DEMO LOGINS
+-----------
+Donor:
+  priya@needbridge.demo
+  Test@123
+
+Organization:
+  ravi@hope.demo
+  Test@123
+
+Volunteer:
+  arjun@needbridge.demo
+  Test@123
+
+Admin:
+  admin@needbridge.demo
+  Admin@123
+
+CORE DEMO
+---------
+Ravi creates need -> Priya creates donation -> AI analysis -> matching ->
+Priya schedules pickup -> Arjun accepts and collects -> Ravi confirms delivery ->
+Need remaining quantity updates.
+
+If npm is not recognized, install Node.js LTS first and reopen Command Prompt.
